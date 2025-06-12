@@ -1,3 +1,3 @@
 # Metabolome-Wide-QTL-Analysis
 
-### WIP - please check back shortly. Thank you for your patience. 
+### We will have the code up soon. Thank you!
